@@ -40,3 +40,16 @@
     border-radius:15px;
     padding:5px;
 }
+.icon-size{
+    width:80px;
+}
+@media (max-width: 1200px){
+    .reverse-order{
+        display: flex;
+        flex-direction:column-reverse;
+    }
+    .center-aligned{
+        display: flex;
+        justify-content: center;
+    }
+}
