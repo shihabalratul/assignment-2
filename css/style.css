@@ -27,9 +27,7 @@
     width:25px;
     padding:0 3px;
 }
-.penguine-card{
-    border:0;
-}
+
 .penguine-card-footer{
     background-color: white;
     border:0;
@@ -37,13 +35,12 @@
 }
 .penguine-image{
     background-color: #F1F1F1;
-    margin:15px 5px;
-    padding:5px;
+    margin:20px;
+    padding:20px;
+   
 
 }
-.penguine-border-radius{
-    border-radius: 15px;
-    
-    
-
+.card-radius{
+    border-radius:18px;
+    padding:5px;
 }
