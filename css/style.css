@@ -1,0 +1,49 @@
+.bebas-neue{
+    font-family: bebas neue;
+}
+.background-color{
+    background-color: #FFFBF0;
+    padding-bottom: 50px;
+
+}
+.heading-text{
+    font-size: 80px;
+}
+.orange-highlighted{
+    color:#FABE4C;
+}
+.blue-highlighted{
+    color:#363958;
+}
+.buy-button{
+    text-decoration: none;
+    color:white;
+    
+    padding:15px 25px;
+    background-image: linear-gradient(#A4BC46,#85A019);
+    border-radius:10px;
+}
+.buy-button img{
+    width:25px;
+    padding:0 3px;
+}
+.penguine-card{
+    border:0;
+}
+.penguine-card-footer{
+    background-color: white;
+    border:0;
+    padding:0 12px;
+}
+.penguine-image{
+    background-color: #F1F1F1;
+    margin:15px 5px;
+    padding:5px;
+
+}
+.penguine-border-radius{
+    border-radius: 15px;
+    
+    
+
+}
